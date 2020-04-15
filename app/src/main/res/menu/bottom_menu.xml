@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/casecount"
+        android:icon="@drawable/casecount"
+        android:title="Case Count" />
+    <item
+        android:id="@+id/testingstats"
+        android:icon="@drawable/testingstats"
+        android:title="Testing Stats" />
+    <item
+        android:id="@+id/hospital"
+        android:icon="@drawable/hospital"
+        android:title="Hospitals And Beds" />
+    <item
+        android:id="@+id/helpline"
+        android:icon="@drawable/helpline"
+        android:title="Helpline" />
+</menu>
